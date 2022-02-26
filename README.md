@@ -15,20 +15,16 @@ This is the React State & Props demonstration. Please follow the instructions + 
 [ ] class versus functional components!
 
 ## Today's Code Demo Goal
+
 We are going to build a small application that will allow us to click on a Hogwarts house, and we will see a resulting border on the house and its name next to the question: "Which Hogwarts House are you?"
 
 i.e. See the below example. Yes it looks like trash, I know. :'(
 
-
-
-
-
 Which Hogwarts House are you?
 
-Gryffindor
----------------
-| Hufflepuff  |     <-- We have clicked on this `li` element!
----------------
+## Gryffindor
+
+## | Hufflepuff | <-- We have clicked on this `li` element!
+
 Slytherin
 Ravenclaw
-# Intro_React_Demo
