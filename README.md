@@ -22,7 +22,7 @@ i.e. See the below example. Yes it looks like trash, I know. :'(
 
 Which Hogwarts House are you?
 
-## Gryffindor
+Gryffindor
 
 ## | Hufflepuff | <-- We have clicked on this `li` element!
 
